@@ -1,8 +1,8 @@
-import Card from "./01-Card.js";
-import Deck from "./02-Deck.js";
-import Hand from "./03-Hand.js";
-import CardGame from "./04-CardGame.js";
-import OldMaidHand from "./05-OldMaidHand.js";
+// import Card from "./01-Card.js";
+// import Deck from "./02-Deck.js";
+// import Hand from "./03-Hand.js";
+// import CardGame from "./04-CardGame.js";
+// import OldMaidHand from "./05-OldMaidHand.js";
 import OldMaidGame from "./06-OldMaidGame.js";
 
 // let game = new CardGame();

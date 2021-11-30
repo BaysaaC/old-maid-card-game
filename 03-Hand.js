@@ -19,7 +19,7 @@ class Hand extends Deck {
         } else {
             console.log(`--- Hand of ${this.name} contains: ---`);
 
-            console.log(this.showCards());
+            this.showCards();
         }
     }
 
