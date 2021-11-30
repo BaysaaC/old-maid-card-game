@@ -4,8 +4,6 @@ import OldMaidHand from "./05-OldMaidHand.js";
 class OldMaidGame extends CardGame {
     play(playersArray) {
 
-        console.log(this.deck.cards);
-
         const removeQueenOfClubs = this.deck.removeCard(this.deck.cards.filter(
             (queenOfClubs) => {
                 if (queenOfClubs.rank == 12 && queenOfClubs.suit == 0) {
